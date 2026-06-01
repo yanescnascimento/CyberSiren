@@ -1,0 +1,9 @@
+# Binários nativos (não devem dominar as estatísticas de linguagem)
+*.so linguist-vendored
+*.a linguist-vendored
+**/jniLibs/** linguist-vendored
+**/*.xcframework/** linguist-vendored
+
+# Arquivos grandes de localização / assets
+*.xcstrings linguist-generated
+*.png linguist-vendored
