@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="v2v_car_status_listening">V2V · listening</string>
+    <string name="v2v_car_status_connected_one">V2V · 1 connected</string>
+    <string name="v2v_car_status_connected_many">V2V · %d connected</string>
+    <string name="v2v_car_action_receive">Receive</string>
+    <string name="v2v_car_action_transmit">Transmit</string>
+    <string name="v2v_car_grid_selected">Selected</string>
+    <string name="v2v_car_grid_tap_to_use">Tap to use</string>
+    <string name="v2v_car_sender_active">TRANSMITTING</string>
+    <string name="v2v_car_sender_ready">Ready to transmit</string>
+    <string name="v2v_car_peer_one">1 peer connected</string>
+    <string name="v2v_car_peer_many">%d peers connected</string>
+    <string name="v2v_car_peer_short_one">1 peer</string>
+    <string name="v2v_car_peer_short_many">%d peers</string>
+    <string name="v2v_car_btn_activate">START</string>
+    <string name="v2v_car_btn_stop">STOP</string>
+    <string name="v2v_car_clear_road">Road clear</string>
+    <string name="v2v_car_clear_road_desc">No emergency vehicles nearby.</string>
+    <string name="v2v_car_urgency_critical_prefix">VERY CLOSE · </string>
+    <string name="v2v_car_urgency_high_prefix">Approaching · </string>
+    <string name="v2v_car_header_critical">ATTENTION — %d</string>
+    <string name="v2v_car_header_alert_one">%d alert</string>
+    <string name="v2v_car_header_alert_many">%d alerts</string>
+    <string name="v2v_car_dir_ahead">Ahead</string>
+    <string name="v2v_car_dir_behind">Behind</string>
+    <string name="v2v_car_dir_left">Left</string>
+    <string name="v2v_car_dir_right">Right</string>
+    <string name="v2v_car_dir_unknown">Direction ?</string>
+    <string name="v2v_car_age_now">now</string>
+    <string name="v2v_car_age_seconds">%ds ago</string>
+    <string name="v2v_car_age_minutes">%d min ago</string>
+    <string name="v2v_notif_title_nearby">%s nearby</string>
+    <string name="v2v_notif_dir_ahead">ahead</string>
+    <string name="v2v_notif_dir_behind">behind</string>
+    <string name="v2v_notif_dir_left">on the left</string>
+    <string name="v2v_notif_dir_right">on the right</string>
+</resources>

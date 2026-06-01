@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="v2v_settings_title">Configurações</string>
+    <string name="v2v_settings_mock_label">Dados simulados</string>
+    <string name="v2v_settings_mock_hint">Gera cards demo + valores de velocidade/direção.</string>
+    <string name="v2v_settings_language_label">Idioma</string>
+    <string name="v2v_lang_en">English</string>
+    <string name="v2v_lang_es">Español</string>
+    <string name="v2v_lang_pt">Português</string>
+
+    <string name="v2v_vehicle_type_label">Tipo de veículo</string>
+    <string name="v2v_vehicle_ambulance">Ambulância</string>
+    <string name="v2v_vehicle_fire">Bombeiros</string>
+    <string name="v2v_vehicle_police">Polícia</string>
+    <string name="v2v_vehicle_emergency">Emergência</string>
+
+    <string name="v2v_sender_title_ready">Pronto para transmitir</string>
+    <string name="v2v_sender_title_active">Transmitindo</string>
+    <string name="v2v_sender_subtitle_active_prefix">Alerta de </string>
+    <string name="v2v_sender_subtitle_active_suffix"> em difusão.</string>
+    <string name="v2v_sender_subtitle_ready_prefix">Selecionado: </string>
+    <string name="v2v_sender_subtitle_ready_suffix">. Toque em ativar quando necessário.</string>
+
+    <string name="v2v_receiver_title_attention">Atenção</string>
+    <string name="v2v_receiver_title_listening">A escutar</string>
+    <string name="v2v_receiver_subtitle_none">Sem emergências próximas.</string>
+    <string name="v2v_receiver_subtitle_one">1 veículo de emergência próximo.</string>
+    <string name="v2v_receiver_subtitle_many">%1$d veículos de emergência próximos.</string>
+    <string name="v2v_receiver_other_alerts">Outros alertas</string>
+    <string name="v2v_receiver_clear_title">Via livre</string>
+    <string name="v2v_receiver_clear_subtitle">Nenhum veículo de emergência detetado\nnas proximidades.</string>
+    <string name="v2v_receiver_listening_chip">Escuta ativa</string>
+
+    <string name="v2v_mode_send">Transmitir</string>
+    <string name="v2v_mode_receive">Receber</string>
+
+    <string name="v2v_activate">ATIVAR</string>
+    <string name="v2v_stop">PARAR</string>
+
+    <string name="v2v_getting_gps">A obter GPS…</string>
+    <string name="v2v_lat_lon_fmt">Lat %1$s   Lon %2$s</string>
+    <string name="v2v_metric_speed">Velocidade</string>
+    <string name="v2v_metric_heading">Direção</string>
+    <string name="v2v_metric_connected">Conectados</string>
+
+    <string name="v2v_dir_ahead">À frente</string>
+    <string name="v2v_dir_behind">Atrás</string>
+    <string name="v2v_dir_left">Esquerda</string>
+    <string name="v2v_dir_right">Direita</string>
+    <string name="v2v_dir_unknown">Direção?</string>
+
+    <string name="v2v_time_now">agora</string>
+    <string name="v2v_time_seconds_ago">há %1$ds</string>
+    <string name="v2v_time_minutes_ago">há %1$d min</string>
+
+    <string name="v2v_urgency_critical">Muito próxima</string>
+    <string name="v2v_urgency_high">A aproximar-se</string>
+    <string name="v2v_urgency_medium">Próxima</string>
+    <string name="v2v_urgency_low">Longe</string>
+
+    <string name="v2v_critical_banner">MUITO PRÓXIMA — CEDA PASSAGEM</string>
+</resources>
