@@ -13,7 +13,6 @@ debug_keystore/
 *.keystore
 debug.keystore
 app/release
-.claude/
 # Gradle
 /build/
 /.gradle/
